@@ -36,7 +36,7 @@ Architecture
 Place your architecture diagram at: docs/images/architecture.png
 
 ![Architecture Diagram (Image 1)](https://github.com/Naveen15github/Zomato-Clone-Deployment-using-AWS-Terraform-Jenkins-Docker/blob/8e61dfa2b898591893037621d4421dd22386499b/zomato%20clone.png)
-Docker/blob/8e61dfa2b898591893037621d4421dd22386499b/zomato%20clone.png)
+
 
 
   <img >
@@ -45,12 +45,13 @@ Docker/blob/8e61dfa2b898591893037621d4421dd22386499b/zomato%20clone.png)
 
 Screenshots (place images in docs/images/)
 ------------------------------------------
-- docs/images/architecture.png
-- docs/images/ec2_instances.png
-- docs/images/jenkins_credentials.png
-- docs/images/sonarqube_project.png
-- docs/images/plugins_download_progress.png
-- docs/images/sonarqube_webhook_settings.png
+![(Image 1)](https://github.com/Naveen15github/Zomato-Clone-Deployment-using-AWS-Terraform-Jenkins-Docker/blob/8e61dfa2b898591893037621d4421dd22386499b/Screenshot%20(88).png)
+![Architecture Diagram (Image 1)](https://github.com/Naveen15github/Zomato-Clone-Deployment-using-AWS-Terraform-Jenkins-Docker/blob/8e61dfa2b898591893037621d4421dd22386499b/Screenshot%20(89).png)
+![Architecture Diagram (Image 1)](https://github.com/Naveen15github/Zomato-Clone-Deployment-using-AWS-Terraform-Jenkins-Docker/blob/8e61dfa2b898591893037621d4421dd22386499b/Screenshot%20(90).png)
+![Architecture Diagram (Image 1)](https://github.com/Naveen15github/Zomato-Clone-Deployment-using-AWS-Terraform-Jenkins-Docker/blob/8e61dfa2b898591893037621d4421dd22386499b/Screenshot%20(91).png)
+![Architecture Diagram (Image 1)](https://github.com/Naveen15github/Zomato-Clone-Deployment-using-AWS-Terraform-Jenkins-Docker/blob/8e61dfa2b898591893037621d4421dd22386499b/Screenshot%20(92).png)
+![Architecture Diagram (Image 1)](https://github.com/Naveen15github/Zomato-Clone-Deployment-using-AWS-Terraform-Jenkins-Docker/blob/8e61dfa2b898591893037621d4421dd22386499b/Screenshot%20(93).png)
+
 
 Repository layout (recommended)
 - README.md
