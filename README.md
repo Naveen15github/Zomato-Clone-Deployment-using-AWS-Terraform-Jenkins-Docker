@@ -35,8 +35,11 @@ Architecture
 ------------
 Place your architecture diagram at: docs/images/architecture.png
 
-<figure>
-  <img src="docs/images/architecture.png" alt="Architecture Diagram" style="max-width:100%;">
+![Architecture Diagram (Image 1)](https://github.com/Naveen15github/Zomato-Clone-Deployment-using-AWS-Terraform-Jenkins-Docker/blob/8e61dfa2b898591893037621d4421dd22386499b/zomato%20clone.png)
+Docker/blob/8e61dfa2b898591893037621d4421dd22386499b/zomato%20clone.png)
+
+
+  <img >
   <figcaption><strong>Figure —</strong> High-level CI/CD & infrastructure flow: developer → Terraform → Jenkins → SonarQube / npm / Trivy / Aqua / OWASP → Docker → AWS (ECR / ECS/EC2 / RDS).</figcaption>
 </figure>
 
