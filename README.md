@@ -258,17 +258,6 @@ Best practices & important notes
 - Treat CI quality/security gates as actionable signals; create an issue workflow for remediation.
 - Keep images and reports archived in the build artifacts for traceability.
 
-Where to put images and Dockerfile
-----------------------------------
-- Jenkinsfile: `jenkins/Jenkinsfile`
-- Dockerfile: `services/web/Dockerfile`
-- Add the images you uploaded to:
-  - docs/images/architecture.png
-  - docs/images/ec2_instances.png
-  - docs/images/jenkins_credentials.png
-  - docs/images/sonarqube_project.png
-  - docs/images/plugins_download_progress.png
-  - docs/images/sonarqube_webhook_settings.png
 
 License
 -------
