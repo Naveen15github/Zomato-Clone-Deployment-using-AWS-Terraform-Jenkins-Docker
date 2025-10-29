@@ -265,4 +265,4 @@ MIT
 
 Contact
 -------
-Maintainer: Naveen G (Naveen15github) — add your email or profile link here.
+Maintainer: Naveen G (Naveen15github) — naveen6662005@gmail.com
