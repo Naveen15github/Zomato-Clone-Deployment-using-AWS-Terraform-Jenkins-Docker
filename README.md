@@ -1,4 +1,4 @@
-# Zomato Clone — AWS Deployment with Terraform, Jenkins, SonarQube, Docker & Security Scanning
+# Zomato Clone-AWS Deployment with Terraform, Jenkins, SonarQube, Docker & Security Scanning
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)]()
 [![Infra-as-Code](https://img.shields.io/badge/terraform-1.x+-623CE4.svg)]()
